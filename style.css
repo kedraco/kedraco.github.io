@@ -3,6 +3,7 @@
 	margin: 0px;
 	clear: left;
 	border-radius: 100%;
+	border: solid black;
 }
 #header{
 	background-color: #A9D0F5;
